@@ -1,0 +1,5 @@
+﻿  ConsoleApplication14.cpp
+c:\users\анастасия\source\repos\consoleapplication14\consoleapplication14\consoleapplication14.cpp(156): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\анастасия\source\repos\consoleapplication14\consoleapplication14\consoleapplication14.cpp(150): warning C4101: p: неиспользованная локальная переменная
+c:\users\анастасия\source\repos\consoleapplication14\consoleapplication14\consoleapplication14.cpp(515): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication14.vcxproj -> C:\Users\Анастасия\source\repos\ConsoleApplication14\Debug\ConsoleApplication14.exe
